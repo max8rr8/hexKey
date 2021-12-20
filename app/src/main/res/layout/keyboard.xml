@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="1"
+    android:background="#000">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="*"
+        >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="@dimen/height"
+            >
+
+            <TextView
+                android:id="@+id/b1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/border"
+                android:clickable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Button"
+                android:textColor="@color/text_color" />
+
+            <TextView
+                android:id="@+id/b2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/border"
+                android:clickable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Button"
+                android:textColor="@color/text_color" />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="@dimen/height"
+            >
+
+            <TextView
+                android:id="@+id/b3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/border"
+                android:clickable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Button"
+                android:textColor="@color/text_color" />
+
+            <TextView
+                android:id="@+id/b4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/border"
+                android:clickable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Button"
+                android:textColor="@color/text_color" />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="@dimen/height"
+            >
+
+            <TextView
+                android:id="@+id/b5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/border"
+                android:clickable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Button"
+                android:textColor="@color/text_color" />
+
+            <TextView
+                android:id="@+id/b6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/border"
+                android:clickable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Button"
+                android:textColor="@color/text_color" />
+        </TableRow>
+
+
+    </TableLayout>
+
+</LinearLayout>
