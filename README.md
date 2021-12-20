@@ -15,7 +15,7 @@ HexKey is fast input method for wear os. You can enter any letter using only two
 * More comming soon...
 
 ## How to use
-1. Download and install apk to your watch
+1. [Download](https://drive.google.com/file/d/11h1nDoUkxyIHASY76TSSFpaiVT5sKkOO/view?usp=sharing) and install apk to your watch
 2. Select HexKey as input method in settings of your watch
 3. Find place to write text
 4. Select language
